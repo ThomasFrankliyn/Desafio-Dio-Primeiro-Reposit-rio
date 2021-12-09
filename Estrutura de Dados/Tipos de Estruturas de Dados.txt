@@ -1,0 +1,9 @@
+Temos os seguintes tipos de estruturas de Dados:
+
+1- Arrays e Matrizes
+2- Listas
+3- Filas
+4- Pilhas
+5- Árvores
+6- Tabela Hash 
+7- Grafos
